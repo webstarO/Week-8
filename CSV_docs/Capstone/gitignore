@@ -1,0 +1,2 @@
+CSV docs/*
+!CSV docs/capstone.ipynb
